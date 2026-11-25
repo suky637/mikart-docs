@@ -5,9 +5,13 @@ title: Bushes
 
 # Bushes
 
-| Type       | Price | Berry | Time | $/h |
-|------------|-------|-------|------|-----|
-| Blackberry | 7k    | 950   | 1h45 | 542 |
-| Blueberry  | 20k   | 600   | 1h20 | 452 |
-| Strawberry | 2.7k  | ?     | 36m  | ?   |
-| Raspberry  | 25.5k | ?     | 3h   | ?   |
+| Type         | Price | Berry | Time  | $/h |
+|--------------|-------|-------|-------|-----|
+| Blackberry   | 7k    | 950   | 1h45  | 542 |
+| Blueberry    | 20k   | 600   | 1h20  | 452 |
+| Strawberry   | 2.7k  | ?     | 36m   | ?   |
+| Raspberry    | 25.5k | ?     | 3h    | ?   |
+| Pineapple    | 14k   | ?     | 1h    | ?   |
+| Phoenixberry | 50k   | ?     | 6h    | ?   |
+| Sunburst     | 100k  | ?     | 13h20 | ?   |
+| Thunderberry | 13k   | ?     | 20m   | ?   |
