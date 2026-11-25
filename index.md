@@ -10,3 +10,4 @@ Welcome to the Unofficial Open Source MikArt Documentation. This is the document
 
 - [Bushes](bushes.md)
 - [Fish](fish.md)
+- [Enchants](enchants.md)
