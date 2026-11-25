@@ -9,7 +9,7 @@ title: Bushes
 |--------------|-------|-------|-------|-----|
 | Blackberry   | 7k    | 950   | 1h45  | 542 |
 | Blueberry    | 20k   | 600   | 1h20  | 452 |
-| Strawberry   | 2.7k  | ?     | 36m   | ?   |
+| Strawberry   | 2.7k  | 360   | 36m   | 600 |
 | Raspberry    | 25.5k | ?     | 3h    | ?   |
 | Pineapple    | 14k   | ?     | 1h    | ?   |
 | Phoenixberry | 50k   | ?     | 6h    | ?   |
