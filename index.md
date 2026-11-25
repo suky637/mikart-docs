@@ -8,3 +8,4 @@ Welcome to the Unofficial Open Source MikArt Documentation. This is the document
 ## Sections
 
 - [Bushes](bushes.md)
+- [Fish](fish.md)
