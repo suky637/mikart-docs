@@ -7,7 +7,7 @@ title: Enchants
 
 |**Enchant**|Max Level|Utility|
 |---|---|---|
-|**Bane of Arthropod**|5|Deals more damage to spiders|
+|**Bane of Arthropode**|5|Deals more damage to spiders|
 |**Fire Aspect**|2|Puts the entity on fire|
 |**Ice Aspect**|3|Freezes and gives slowness to the entity|
 |**Looting**|3|Gives more items|
