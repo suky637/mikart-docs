@@ -8,3 +8,5 @@ To suggest a modification or an addition, please go in Issues or do a PR with th
 
 Link:
 https://suky637.github.io/mikart-docs/
+
+<span style="color:blue">hehe</span>
