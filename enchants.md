@@ -40,6 +40,7 @@ title: Enchants
 |**Unbreaking**|3|Reduces the chances of losing durability|
 
 # Fishing Rod Enchants
+
 |**Enchants**|Max Level|Utility|
 |---|---|---|
 |**Luck of the Sea**|2|Augments the chances of catching rarer loot|
