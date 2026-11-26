@@ -38,3 +38,11 @@ title: Enchants
 |**Silk Touch**|1|Breaks the block as it is (same thing with spawners)|
 |**Tunneler**|1|Breaks blocks in an area of 3x3, disabled when crouched|
 |**Unbreaking**|3|Reduces the chances of losing durability|
+
+# Fishing Rod Enchants
+|**Enchants**|Max Level|Utility|
+|---|---|---|
+|**Luck of the Sea**|2|Augments the chances of catching rarer loot|
+|**Lure**|3|Decreases the time for a bite|
+|**Mending**|1|Repairing items with EXP|
+|**Unbreaking**|3|Reduces the chances of losing durability|
