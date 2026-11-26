@@ -7,7 +7,7 @@ title: Enchants
 
 |**Enchant**|Max Level|Utility|
 |---|---|---|
-|<span style="color: rgb(60, 11, 102)>**Mending**</span>|1|Repairing items with EXP|
+|**<span style="color: rgb(60, 11, 102)>Mending</span>**|1|Repairing items with EXP|
 |**Sharpness**|5|Deals globally more damage|
 |**Smite**|5|Deals more damage to undead mobs|
 |**Bane of arthropod**|5|Deals more damage to spiders|
