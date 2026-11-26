@@ -11,6 +11,5 @@ Québec is the first nation to ever exist on MikArt. Created by `Hieta`, it is, 
 
 - Empire
 - Montréal
-- Fort_Jolliet
 - ArcHat
 - Agency
