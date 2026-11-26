@@ -23,18 +23,18 @@ title: Enchants
 
 |**Enchants**|Max Level|Utility|
 |---|---|---|
-|**Mending**|1|Repairing items with EXP|
-|**Unbreaking**|3|Reduces the chances of losing durability|
-|**Treefeller**|1|Cuts down an entire tree|
 |**Efficiency**|5|Augments the speed of breaking blocks|
+|**Mending**|1|Repairing items with EXP|
+|**Treefeller**|1|Cuts down an entire tree|
+|**Unbreaking**|3|Reduces the chances of losing durability|
 
 # Pickaxe Enchants
 
 |**Enchants**|Max Level|Utility|
 |---|---|---|
-|**Mending**|1|Repairing items with EXP|
-|**Unbreaking**|3|Reduces the chances of losing durability|
-|**Fortune**|3|Increases the possible yield per ore|
-|**Silk Touch**|1|Breaks the block as it is (same thing with spawners)|
 |**Efficiency**|5|Augments the speed of breaking blocks|
+|**Fortune**|3|Increases the possible yield per ore|
+|**Mending**|1|Repairing items with EXP|
+|**Silk Touch**|1|Breaks the block as it is (same thing with spawners)|
 |**Tunneler**|1|Breaks blocks in an area of 3x3, disabled when crouched|
+|**Unbreaking**|3|Reduces the chances of losing durability|
