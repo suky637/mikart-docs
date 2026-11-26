@@ -15,5 +15,3 @@ title: Bushes
 | Phoenixberry | 50k   | ?     | 6h    | ?   |
 | Sunburst     | 100k  | ?     | 13h20 | ?   |
 | Thunderberry | 13k   | ?     | 20m   | ?   |
-
-<span style="color:rgb(255,83,0)">test</span>
