@@ -12,3 +12,4 @@ Welcome to the Unofficial Open Source MikArt Documentation. This is the document
 - [Fish](fish.md)
 - [Enchants](enchants.md)
 - [Nations](nations.md)
+- [Plants](plants.md)
